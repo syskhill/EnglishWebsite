@@ -48,20 +48,20 @@
   --nav-text: #e0e0e0;
 }
 
-/* Ocean theme */
-[data-theme="ocean"] {
-  --bg-color: #e3f2fd;
-  --text-color: #0d47a1;
-  --heading-color: #01579b;
-  --link-color: #0277bd;
-  --hover-color: #01579b;
-  --accent-color: #ff6d00;
-  --card-bg: #ffffff;
-  --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  --border-color: #bbdefb;
-  --quote-bg: #e1f5fe;
-  --nav-bg: #81d4fa;
-  --nav-text: #0d47a1;
+/* Sepia theme */
+[data-theme="sepia"] {
+  --bg-color: #f5e8d3;
+  --text-color: #5b4636;
+  --heading-color: #8b5a2b;
+  --link-color: #a56e3a;
+  --hover-color: #7d4e24;
+  --accent-color: #c17f46;
+  --card-bg: #fdf4e3;
+  --card-shadow: 0 4px 6px rgba(139, 90, 43, 0.1);
+  --border-color: #e6d5b8;
+  --quote-bg: #f3e9d3;
+  --nav-bg: #ecdcc3;
+  --nav-text: #5b4636;
 }
 
 body {
@@ -169,6 +169,14 @@ header {
   color: #333;
 }
 
+.theme-sepia {
+  background-color: #f5e8d3;
+}
+
+.theme-sepia .theme-icon {
+  color: #8b5a2b;
+}
+
 .theme-dark {
   background-color: #1a1a2e;
 }
@@ -186,14 +194,6 @@ header {
 .theme-midnight .theme-icon {
   color: #bb86fc;
   text-shadow: 0 0 2px rgba(187, 134, 252, 0.5);
-}
-
-.theme-ocean {
-  background-color: #e3f2fd;
-}
-
-.theme-ocean .theme-icon {
-  color: #0d47a1;
 }
 
 main {
