@@ -32,24 +32,21 @@ navigation:
   - title: Home
     url: /
     icon: 🏠
-  - title: Research Argument
-    url: /posts/research-argument
-    icon: 🧠
-  - title: Annotated Bibliography
-    url: /posts/annotated-bibliography
-    icon: 📚
   - title: Personal Narrative
     url: /posts/narrative-time-for-another-day
     icon: 📝
-  - title: Research Process
-    url: /posts/research-process-paper
-    icon: 🔍
-  - title: Poetry
-    url: /posts/poetry
-    icon: 🎭
   - title: Speech
     url: /posts/speech
     icon: 🎤
+  - title: Research Process
+    url: /posts/research-process-paper
+    icon: 🔍
+  - title: Research Argument
+    url: /posts/research-argument
+    icon: 🧠
+  - title: Poetry
+    url: /posts/poetry
+    icon: 🎭
   - title: Documents
     url: /documents
     icon: 📄
