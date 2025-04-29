@@ -2,7 +2,6 @@
 layout: post
 title: "Poetry Collection: Reflections on Growth and Balance"
 date: 2025-04-22
-tags: [poetry, creative writing, personal expression]
 ---
 
 # Poetry Collection: Reflections on Growth and Balance

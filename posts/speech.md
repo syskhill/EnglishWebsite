@@ -2,7 +2,6 @@
 layout: post
 title: "Jack of All Trades: The Strength in Generalization"
 date: 2025-04-15
-tags: [speech, public speaking, childhood development]
 ---
 
 # Jack of All Trades: The Strength in Generalization
