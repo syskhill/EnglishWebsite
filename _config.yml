@@ -1,0 +1,46 @@
+title: Connor Cahill's Academic Portfolio
+description: A blog documenting my research journey on childhood development and academic writing growth
+author: Connor Cahill
+email: connor.cahill@example.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Site structure
+header_pages:
+  - about.md
+
+# Navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: Research Argument
+    url: /posts/research-argument
+  - title: Annotated Bibliography
+    url: /posts/annotated-bibliography
+  - title: Personal Narrative
+    url: /posts/narrative-time-for-another-day
+  - title: Midterm Reflection
+    url: /posts/midterm-reflection
+  - title: Research Process
+    url: /posts/research-process-paper
+  - title: About
+    url: /about
+
+# Social links (optional)
+social_links:
+  github: username
+  twitter: username
+
+# Default front matter settings
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Connor Cahill"
