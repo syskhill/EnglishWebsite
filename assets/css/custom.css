@@ -274,6 +274,12 @@ code {
   display: block;
 }
 
+.card-icon {
+  font-size: 1.8rem;
+  display: block;
+  margin-bottom: 15px;
+}
+
 .card-excerpt {
   margin-bottom: 15px;
 }

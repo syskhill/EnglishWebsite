@@ -8,63 +8,122 @@ layout: default
     <p class="tagline">{{ site.tagline }}</p>
     <p class="intro">{{ content }}</p>
   </div>
-
-  <section class="featured-posts">
-    <h2>Featured Posts</h2>
-    
-    <div class="cards-container">
-      {% assign research_argument = site.posts | where: "categories", "research-argument" | first %}
-      {% if research_argument %}
-      <div class="card">
-        <div class="card-content">
-          <span class="card-date">{{ research_argument.date | date: "%B %-d, %Y" }}</span>
-          <h3 class="card-title">{{ research_argument.title }}</h3>
-          <p class="card-excerpt">{{ research_argument.excerpt | strip_html | truncatewords: 30 }}</p>
-          <a href="{{ research_argument.url | relative_url }}" class="read-more">Read More</a>
-        </div>
-      </div>
-      {% endif %}
-      
-      {% assign narrative = site.posts | where: "categories", "narrative" | first %}
-      {% if narrative %}
-      <div class="card">
-        <div class="card-content">
-          <span class="card-date">{{ narrative.date | date: "%B %-d, %Y" }}</span>
-          <h3 class="card-title">{{ narrative.title }}</h3>
-          <p class="card-excerpt">{{ narrative.excerpt | strip_html | truncatewords: 30 }}</p>
-          <a href="{{ narrative.url | relative_url }}" class="read-more">Read More</a>
-        </div>
-      </div>
-      {% endif %}
-      
-      {% assign process = site.posts | where: "categories", "research-process" | first %}
-      {% if process %}
-      <div class="card">
-        <div class="card-content">
-          <span class="card-date">{{ process.date | date: "%B %-d, %Y" }}</span>
-          <h3 class="card-title">{{ process.title }}</h3>
-          <p class="card-excerpt">{{ process.excerpt | strip_html | truncatewords: 30 }}</p>
-          <a href="{{ process.url | relative_url }}" class="read-more">Read More</a>
-        </div>
-      </div>
-      {% endif %}
-    </div>
-  </section>
   
-  <section class="recent-posts">
+  <section class="all-posts">
     <h2>All Posts</h2>
     
     <div class="cards-container">
-      {% for post in site.posts %}
+      <!-- Research Argument -->
       <div class="card">
         <div class="card-content">
-          <span class="card-date">{{ post.date | date: "%B %-d, %Y" }}</span>
-          <h3 class="card-title">{{ post.title }}</h3>
-          <p class="card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-          <a href="{{ post.url | relative_url }}" class="read-more">Read More</a>
+          {% for item in site.navigation %}
+            {% if item.url == '/posts/research-argument' %}
+              <span class="card-icon">{{ item.icon }}</span>
+            {% endif %}
+          {% endfor %}
+          <h3 class="card-title">Research Argument</h3>
+          <p class="card-excerpt">My formal argument on the benefits of generalization before specialization in childhood development.</p>
+          <a href="/posts/research-argument" class="read-more">Read More</a>
         </div>
       </div>
-      {% endfor %}
+      
+      <!-- Annotated Bibliography -->
+      <div class="card">
+        <div class="card-content">
+          {% for item in site.navigation %}
+            {% if item.url == '/posts/annotated-bibliography' %}
+              <span class="card-icon">{{ item.icon }}</span>
+            {% endif %}
+          {% endfor %}
+          <h3 class="card-title">Annotated Bibliography</h3>
+          <p class="card-excerpt">Key research sources that informed my work on childhood development and specialization.</p>
+          <a href="/posts/annotated-bibliography" class="read-more">Read More</a>
+        </div>
+      </div>
+      
+      <!-- Personal Narrative -->
+      <div class="card">
+        <div class="card-content">
+          {% for item in site.navigation %}
+            {% if item.url == '/posts/narrative-time-for-another-day' %}
+              <span class="card-icon">{{ item.icon }}</span>
+            {% endif %}
+          {% endfor %}
+          <h3 class="card-title">Personal Narrative</h3>
+          <p class="card-excerpt">"5:45 A.M. Starts: Lessons in Balance and Burnout" - My experience with early specialization in swimming.</p>
+          <a href="/posts/narrative-time-for-another-day" class="read-more">Read More</a>
+        </div>
+      </div>
+      
+      <!-- Midterm Reflection -->
+      <div class="card">
+        <div class="card-content">
+          {% for item in site.navigation %}
+            {% if item.url == '/posts/midterm-reflection' %}
+              <span class="card-icon">{{ item.icon }}</span>
+            {% endif %}
+          {% endfor %}
+          <h3 class="card-title">Midterm Reflection</h3>
+          <p class="card-excerpt">Analysis of my growth as a writer and the evolution of my academic approach.</p>
+          <a href="/posts/midterm-reflection" class="read-more">Read More</a>
+        </div>
+      </div>
+      
+      <!-- Research Process -->
+      <div class="card">
+        <div class="card-content">
+          {% for item in site.navigation %}
+            {% if item.url == '/posts/research-process-paper' %}
+              <span class="card-icon">{{ item.icon }}</span>
+            {% endif %}
+          {% endfor %}
+          <h3 class="card-title">Research Process</h3>
+          <p class="card-excerpt">How I conducted my own survey-based research on childhood specialization and development.</p>
+          <a href="/posts/research-process-paper" class="read-more">Read More</a>
+        </div>
+      </div>
+      
+      <!-- Poetry -->
+      <div class="card">
+        <div class="card-content">
+          {% for item in site.navigation %}
+            {% if item.url == '/posts/poetry' %}
+              <span class="card-icon">{{ item.icon }}</span>
+            {% endif %}
+          {% endfor %}
+          <h3 class="card-title">Poetry Collection</h3>
+          <p class="card-excerpt">Creative explorations of development, balance, and growth through verse.</p>
+          <a href="/posts/poetry" class="read-more">Read More</a>
+        </div>
+      </div>
+      
+      <!-- Speech -->
+      <div class="card">
+        <div class="card-content">
+          {% for item in site.navigation %}
+            {% if item.url == '/posts/speech' %}
+              <span class="card-icon">{{ item.icon }}</span>
+            {% endif %}
+          {% endfor %}
+          <h3 class="card-title">Public Speaking</h3>
+          <p class="card-excerpt">"Jack of All Trades: The Strength in Generalization" - My speech on the value of being a generalist.</p>
+          <a href="/posts/speech" class="read-more">Read More</a>
+        </div>
+      </div>
+      
+      <!-- Documents -->
+      <div class="card">
+        <div class="card-content">
+          {% for item in site.navigation %}
+            {% if item.url == '/documents' %}
+              <span class="card-icon">{{ item.icon }}</span>
+            {% endif %}
+          {% endfor %}
+          <h3 class="card-title">Document Library</h3>
+          <p class="card-excerpt">Access to all original document files that form the basis of this portfolio.</p>
+          <a href="/documents" class="read-more">View Documents</a>
+        </div>
+      </div>
     </div>
   </section>
   
