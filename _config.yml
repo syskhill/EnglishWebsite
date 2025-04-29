@@ -85,9 +85,9 @@ themes:
   - name: Dark
     id: dark
     icon: 🌙
-  - name: Nature
-    id: nature
-    icon: 🌿
+  - name: Midnight
+    id: midnight
+    icon: 🌃
   - name: Ocean
     id: ocean
     icon: 🌊
