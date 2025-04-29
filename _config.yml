@@ -47,6 +47,9 @@ navigation:
   - title: Poetry
     url: /posts/poetry
     icon: 🎭
+  - title: Fictional Narrative
+    url: /posts/fictional-narrative
+    icon: 📖
   - title: Annotated Bibliography
     url: /posts/annotated-bibliography
     icon: 📚

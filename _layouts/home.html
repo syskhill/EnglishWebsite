@@ -83,6 +83,20 @@ layout: default
         </div>
       </div>
       
+      <!-- Fictional Narrative -->
+      <div class="card">
+        <div class="card-content">
+          {% for item in site.navigation %}
+            {% if item.url == '/posts/fictional-narrative' %}
+              <span class="card-icon">{{ item.icon }}</span>
+            {% endif %}
+          {% endfor %}
+          <h3 class="card-title">Fictional Narrative</h3>
+          <p class="card-excerpt">A creative exploration of childhood development themes through storytelling.</p>
+          <a href="/posts/fictional-narrative" class="read-more">Read More</a>
+        </div>
+      </div>
+      
       <!-- Annotated Bibliography -->
       <div class="card">
         <div class="card-content">
