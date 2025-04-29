@@ -34,6 +34,9 @@ All the content on this website is based on these original document files. You c
 - [**Poetry Collection**](/assets/documents/103-Poetry.docx)
   *Collection of poems exploring themes of growth, balance, and development.*
 
+- [**Fictional Narrative**](/assets/documents/Fictional-Narrative.docx)
+  *A creative exploration of imagination and development through storytelling.*
+
 - [**Jack of All Trades Speech**](/assets/documents/Jack-of-All-Trades-Speech.docx)
   *Public speaking presentation on the value of being a generalist before specializing.*
 
