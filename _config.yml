@@ -47,6 +47,9 @@ navigation:
   - title: Poetry
     url: /posts/poetry
     icon: 🎭
+  - title: Annotated Bibliography
+    url: /posts/annotated-bibliography
+    icon: 📚
   - title: Documents
     url: /documents
     icon: 📄

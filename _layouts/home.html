@@ -27,20 +27,6 @@ layout: default
         </div>
       </div>
       
-      <!-- Annotated Bibliography -->
-      <div class="card">
-        <div class="card-content">
-          {% for item in site.navigation %}
-            {% if item.url == '/posts/annotated-bibliography' %}
-              <span class="card-icon">{{ item.icon }}</span>
-            {% endif %}
-          {% endfor %}
-          <h3 class="card-title">Annotated Bibliography</h3>
-          <p class="card-excerpt">Key research sources that informed my work on childhood development and specialization.</p>
-          <a href="/posts/annotated-bibliography" class="read-more">Read More</a>
-        </div>
-      </div>
-      
       <!-- Personal Narrative -->
       <div class="card">
         <div class="card-content">
@@ -52,6 +38,20 @@ layout: default
           <h3 class="card-title">Personal Narrative</h3>
           <p class="card-excerpt">"5:45 A.M. Starts: Lessons in Balance and Burnout" - My experience with early specialization in swimming.</p>
           <a href="/posts/narrative-time-for-another-day" class="read-more">Read More</a>
+        </div>
+      </div>
+      
+      <!-- Speech -->
+      <div class="card">
+        <div class="card-content">
+          {% for item in site.navigation %}
+            {% if item.url == '/posts/speech' %}
+              <span class="card-icon">{{ item.icon }}</span>
+            {% endif %}
+          {% endfor %}
+          <h3 class="card-title">Public Speaking</h3>
+          <p class="card-excerpt">"Jack of All Trades: The Strength in Generalization" - My speech on the value of being a generalist.</p>
+          <a href="/posts/speech" class="read-more">Read More</a>
         </div>
       </div>
       
@@ -83,17 +83,17 @@ layout: default
         </div>
       </div>
       
-      <!-- Speech -->
+      <!-- Annotated Bibliography -->
       <div class="card">
         <div class="card-content">
           {% for item in site.navigation %}
-            {% if item.url == '/posts/speech' %}
+            {% if item.url == '/posts/annotated-bibliography' %}
               <span class="card-icon">{{ item.icon }}</span>
             {% endif %}
           {% endfor %}
-          <h3 class="card-title">Public Speaking</h3>
-          <p class="card-excerpt">"Jack of All Trades: The Strength in Generalization" - My speech on the value of being a generalist.</p>
-          <a href="/posts/speech" class="read-more">Read More</a>
+          <h3 class="card-title">Annotated Bibliography</h3>
+          <p class="card-excerpt">Key research sources that informed my work on childhood development and specialization.</p>
+          <a href="/posts/annotated-bibliography" class="read-more">Read More</a>
         </div>
       </div>
       
