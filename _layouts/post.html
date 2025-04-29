@@ -16,13 +16,6 @@ layout: default
       <span class="reading-time"></span>
     </div>
     
-    {% if page.tags.size > 0 %}
-    <div class="tags">
-      {% for tag in page.tags %}
-      <a href="{{ site.baseurl }}/tags#{{ tag | slugify }}" class="tag">{{ tag }}</a>
-      {% endfor %}
-    </div>
-    {% endif %}
   </header>
 
   {% if page.show_toc %}
