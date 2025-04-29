@@ -17,7 +17,6 @@ Through this portfolio, you'll find:
 
 - **Research findings** on developmental patterns across athletic, academic, and artistic domains
 - **Personal narratives** about my own experience with early specialization
-- **Creative explorations** of these themes through poetry and speech
-- **Reflections** on my growth as a writer and researcher
+- **Creative works** through poetry and speech
 
 Thank you for visiting my portfolio. I hope these resources contribute to conversations about childhood development and educational approaches that prioritize exploration before specialization.

@@ -28,8 +28,6 @@ All the content on this website is based on these original document files. You c
 - [**Personal Narrative**](/assets/documents/Narrative.docx)
   *My story "Time for Another Day" exploring early specialization in swimming.*
 
-- [**Midterm Reflection**](/assets/documents/Midterm-Reflection.docx)
-  *Analysis of my growth as a writer during this academic journey.*
 
 ### Creative Works
 
