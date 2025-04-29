@@ -1,34 +1,51 @@
 ---
 layout: page
-title: About Me & Blog Purpose
+title: About Me
 permalink: /about/
 ---
 
-# About Me
+# Hey, I'm Connor! 👋
 
-Hello! I'm Connor Cahill, a student passionate about understanding the intersection of childhood development and educational approaches. My academic interests center around how early life experiences shape long-term success and fulfillment.
+![Profile Photo](https://via.placeholder.com/150)
 
-## Background
+Student by day, researcher by night, and former competitive swimmer with a story to tell.
 
-My personal experience with early sports specialization has driven my interest in understanding the benefits of generalization before specialization in childhood development. Through this blog, I share both my research findings and personal journey.
+## My Story
 
-## Purpose of This Blog
+Picture this: 5:45 AM swim practices, chlorine-scented afternoons, and a schedule so packed that "free time" seemed like a foreign concept. That was my childhood as a specialized athlete.
 
-This portfolio blog serves multiple purposes:
+Don't get me wrong – swimming taught me discipline, perseverance, and how to rock some seriously weird tan lines. But it also led me to wonder: *What else might I have discovered if I hadn't devoted all those early years to just one activity?*
 
-- **Document Growth**: Track my evolution from informal storytelling to research-based academic writing
-- **Share Research**: Present original findings on childhood development and specialization
-- **Synthesize Learning**: Demonstrate how I connect personal experiences with scholarly research
-- **Build Community**: Create an accessible platform for others interested in these topics
+That question sparked my current academic obsession: **studying the benefits of generalization before specialization in childhood development**.
 
-## My Approach
+## What This Blog Is About
 
-Throughout this blog, I strive to maintain an authentic voice while engaging critically with research. Each post represents a step in my journey as a writer, researcher, and critical thinker.
+This isn't your typical academic portfolio. It's more like an unfiltered look at my journey from:
 
-I believe in the power of reflection and continuously connecting new learning to lived experience. This approach informs both my writing style and research methodology.
+- 🏊 A kid who only knew the inside of a pool
+- 📝 To a writer finding their voice
+- 🔍 To a researcher asking questions that matter
 
-## Connect
+Through this site, I'm:
 
-Feel free to reach out if you have questions, feedback, or ideas for collaboration. This blog is not just a presentation of completed work but an ongoing conversation about learning and development.
+- **Documenting my evolution** from telling personal stories to crafting research-based arguments
+- **Sharing my findings** on why kids might benefit from trying lots of things before going all-in on one
+- **Connecting the dots** between my own experiences and what the research shows
+- **Starting conversations** with others who care about these topics
 
-Thank you for joining me on this academic journey!
+## My Approach to Writing
+
+I believe academic writing doesn't have to be boring. My goal is to keep things:
+
+- **Authentic** - Real voice, real experiences
+- **Critical** - Not just accepting what I read, but questioning it
+- **Reflective** - Constantly looking back to move forward
+- **Accessible** - Because what's the point of research if no one can understand it?
+
+## Let's Connect!
+
+Got thoughts on child development? Want to share your own specialization story? Just want to say hi?
+
+Reach out through any of the social links below. This blog isn't a finished product – it's an ongoing conversation, and I'd love for you to be part of it.
+
+Thanks for stopping by my little corner of the internet!

@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="hero-section">
+    <h1 class="animated-title">{{ page.title }}</h1>
+    <p class="tagline">{{ site.tagline }}</p>
+    <p class="intro">{{ content }}</p>
+  </div>
+
+  <section class="featured-posts">
+    <h2>Featured Posts</h2>
+    
+    <div class="cards-container">
+      {% assign research_argument = site.posts | where: "categories", "research-argument" | first %}
+      {% if research_argument %}
+      <div class="card">
+        <div class="card-content">
+          <span class="card-date">{{ research_argument.date | date: "%B %-d, %Y" }}</span>
+          <h3 class="card-title">{{ research_argument.title }}</h3>
+          <p class="card-excerpt">{{ research_argument.excerpt | strip_html | truncatewords: 30 }}</p>
+          <a href="{{ research_argument.url | relative_url }}" class="read-more">Read More</a>
+        </div>
+      </div>
+      {% endif %}
+      
+      {% assign narrative = site.posts | where: "categories", "narrative" | first %}
+      {% if narrative %}
+      <div class="card">
+        <div class="card-content">
+          <span class="card-date">{{ narrative.date | date: "%B %-d, %Y" }}</span>
+          <h3 class="card-title">{{ narrative.title }}</h3>
+          <p class="card-excerpt">{{ narrative.excerpt | strip_html | truncatewords: 30 }}</p>
+          <a href="{{ narrative.url | relative_url }}" class="read-more">Read More</a>
+        </div>
+      </div>
+      {% endif %}
+      
+      {% assign process = site.posts | where: "categories", "research-process" | first %}
+      {% if process %}
+      <div class="card">
+        <div class="card-content">
+          <span class="card-date">{{ process.date | date: "%B %-d, %Y" }}</span>
+          <h3 class="card-title">{{ process.title }}</h3>
+          <p class="card-excerpt">{{ process.excerpt | strip_html | truncatewords: 30 }}</p>
+          <a href="{{ process.url | relative_url }}" class="read-more">Read More</a>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </section>
+  
+  <section class="recent-posts">
+    <h2>All Posts</h2>
+    
+    <div class="cards-container">
+      {% for post in site.posts %}
+      <div class="card">
+        <div class="card-content">
+          <span class="card-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+          <h3 class="card-title">{{ post.title }}</h3>
+          <p class="card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+          <a href="{{ post.url | relative_url }}" class="read-more">Read More</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  
+  <section class="quote-section">
+    <blockquote>
+      "Research is formalized curiosity. It is poking and prying with a purpose." — Zora Neale Hurston
+    </blockquote>
+  </section>
+</div>

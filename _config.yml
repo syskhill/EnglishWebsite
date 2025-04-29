@@ -1,7 +1,8 @@
-title: Connor Cahill's Academic Portfolio
-description: A blog documenting my research journey on childhood development and academic writing growth
+title: Connor's Academic Journey
+description: Exploring childhood development and my writing evolution
 author: Connor Cahill
 email: connor.cahill@example.com
+tagline: Generalize before you specialize
 
 # Build settings
 markdown: kramdown
@@ -9,6 +10,18 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Custom assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Add custom CSS and JS
+custom_css: /assets/css/custom.css
+custom_js: /assets/js/main.js
+
+# Add Google Fonts
+google_fonts: "Quicksand:400,500,700|Fira+Code:400,500"
 
 # Site structure
 header_pages:
@@ -18,23 +31,32 @@ header_pages:
 navigation:
   - title: Home
     url: /
+    icon: 🏠
   - title: Research Argument
     url: /posts/research-argument
+    icon: 🧠
   - title: Annotated Bibliography
     url: /posts/annotated-bibliography
+    icon: 📚
   - title: Personal Narrative
     url: /posts/narrative-time-for-another-day
+    icon: 📝
   - title: Midterm Reflection
     url: /posts/midterm-reflection
+    icon: 🤔
   - title: Research Process
     url: /posts/research-process-paper
+    icon: 🔍
   - title: About
     url: /about
+    icon: 👋
 
-# Social links (optional)
+# Social links
 social_links:
   github: username
   twitter: username
+  linkedin: username
+  instagram: username
 
 # Default front matter settings
 defaults:
@@ -44,3 +66,19 @@ defaults:
     values:
       layout: "post"
       author: "Connor Cahill"
+      show_toc: true
+      
+# Available themes
+themes:
+  - name: Light
+    id: light
+    icon: ☀️
+  - name: Dark
+    id: dark
+    icon: 🌙
+  - name: Nature
+    id: nature
+    icon: 🌿
+  - name: Ocean
+    id: ocean
+    icon: 🌊

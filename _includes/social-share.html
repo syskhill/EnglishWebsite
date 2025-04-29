@@ -1,0 +1,25 @@
+<!-- Social sharing buttons -->
+<div class="social-share">
+  <h4>Share this post:</h4>
+  <div class="share-buttons">
+    <!-- Twitter -->
+    <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url | url_encode }}" target="_blank" class="share-button twitter" aria-label="Share on Twitter">
+      <i class="fab fa-twitter"></i>
+    </a>
+    
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url | url_encode }}" target="_blank" class="share-button facebook" aria-label="Share on Facebook">
+      <i class="fab fa-facebook-f"></i>
+    </a>
+    
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url | url_encode }}&title={{ page.title | url_encode }}" target="_blank" class="share-button linkedin" aria-label="Share on LinkedIn">
+      <i class="fab fa-linkedin-in"></i>
+    </a>
+    
+    <!-- Email -->
+    <a href="mailto:?subject={{ page.title | url_encode }}&body=Check out this post: {{ site.url }}{{ page.url | url_encode }}" class="share-button email" aria-label="Share via Email">
+      <i class="fas fa-envelope"></i>
+    </a>
+  </div>
+</div>

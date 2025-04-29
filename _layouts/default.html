@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  
+  <!-- Google Fonts -->
+  {% if site.google_fonts %}
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?{{ site.google_fonts }}&display=swap">
+  {% endif %}
+  
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  
+  <!-- Theme CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/minima.css' | relative_url }}">
+  
+  <!-- Custom CSS -->
+  {% if site.custom_css %}
+  <link rel="stylesheet" href="{{ site.custom_css | relative_url }}">
+  {% endif %}
+  
+  <!-- SEO tags -->
+  {% seo %}
+</head>
+<body>
+  <!-- Progress Bar -->
+  <div class="progress-container">
+    <div class="progress-bar"></div>
+  </div>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="site-header-content">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        
+        <nav class="site-nav">
+          {% for item in site.navigation %}
+          <a class="page-link" href="{{ item.url | relative_url }}">
+            {% if item.icon %}{{ item.icon }} {% endif %}{{ item.title }}
+          </a>
+          {% endfor %}
+          
+          {% include theme-switcher.html %}
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main class="page-content">
+    <div class="container">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <h3>{{ site.title }}</h3>
+      <p>{{ site.description }}</p>
+      
+      <div class="social-links">
+        {% if site.social_links.github %}
+        <a href="https://github.com/{{ site.social_links.github }}" class="social-link" target="_blank" aria-label="GitHub">
+          <i class="fab fa-github"></i>
+        </a>
+        {% endif %}
+        
+        {% if site.social_links.twitter %}
+        <a href="https://twitter.com/{{ site.social_links.twitter }}" class="social-link" target="_blank" aria-label="Twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+        {% endif %}
+        
+        {% if site.social_links.linkedin %}
+        <a href="https://linkedin.com/in/{{ site.social_links.linkedin }}" class="social-link" target="_blank" aria-label="LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        {% endif %}
+        
+        {% if site.social_links.instagram %}
+        <a href="https://instagram.com/{{ site.social_links.instagram }}" class="social-link" target="_blank" aria-label="Instagram">
+          <i class="fab fa-instagram"></i>
+        </a>
+        {% endif %}
+      </div>
+      
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>
+    </div>
+  </footer>
+  
+  <!-- Back to top button -->
+  <a href="#" class="back-to-top" aria-label="Back to top">
+    <i class="fas fa-arrow-up"></i>
+  </a>
+  
+  <!-- Custom JavaScript -->
+  {% if site.custom_js %}
+  <script src="{{ site.custom_js | relative_url }}"></script>
+  {% endif %}
+</body>
+</html>

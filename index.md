@@ -1,36 +1,12 @@
 ---
 layout: home
-title: Welcome to My Academic Journey
+title: My Academic Journey
 ---
 
-# Welcome to My Portfolio Blog
+Hey there! 👋 I'm Connor, and this is where I share my journey through research, writing, and personal growth.
 
-Hello! I'm Connor Cahill, and this blog documents my academic writing journey throughout the semester.
+My academic adventure revolves around one key idea: **Generalization before specialization in childhood development**. As someone who experienced the highs and lows of early sports specialization, I've been fascinated by how diverse experiences in childhood can create stronger foundations for success later in life.
 
-## About This Blog
+On this site, you'll find my research findings, personal stories, and reflections on how my writing and thinking have evolved throughout this semester. Whether you're interested in childhood development, academic writing, or just enjoy a good personal narrative, I hope you'll find something that resonates with you.
 
-This portfolio presents my evolution as a writer and researcher, showcasing:
-- Research findings on childhood development
-- Personal narratives and reflections
-- The growth of my academic writing process
-
-## Research Focus
-
-My primary research focuses on **The benefits of generalization before specialization in childhood development**. Through this work, I explore how early exposure to diverse activities creates better foundations for later success than premature specialization.
-
-## Featured Posts
-
-- [Generalize First, Specialize Later: A Smarter Path for Childhood Development](/posts/research-argument)
-- [5:45 A.M. Starts: Lessons in Balance and Burnout](/posts/narrative-time-for-another-day)
-- [From Curiosity to Data: How I Learned Through Research](/posts/research-process-paper)
-
-## Navigation
-
-- [Research Argument](/posts/research-argument)
-- [Annotated Bibliography](/posts/annotated-bibliography)
-- [Personal Narrative](/posts/narrative-time-for-another-day)
-- [Midterm Reflection](/posts/midterm-reflection)
-- [Research Process](/posts/research-process-paper)
-- [About Me](/about)
-
-> "Research is formalized curiosity. It is poking and prying with a purpose." — Zora Neale Hurston
+Feel free to explore using the navigation menu or check out my featured posts below. Thanks for stopping by!

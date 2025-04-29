@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %-d, %Y" }}
+      </time>
+      {% if page.author %}
+        • <span class="post-author">{{ page.author }}</span>
+      {% endif %}
+      
+      <span class="reading-time"></span>
+    </div>
+    
+    {% if page.tags.size > 0 %}
+    <div class="tags">
+      {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}/tags#{{ tag | slugify }}" class="tag">{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </header>
+
+  {% if page.show_toc %}
+  <div class="table-of-contents">
+    <h2>Table of Contents</h2>
+    <!-- This will be filled by JavaScript -->
+  </div>
+  {% endif %}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+  
+  {% include social-share.html %}
+  
+  <nav class="post-navigation">
+    <div class="post-navigation-links">
+      {% if page.previous.url %}
+      <a class="prev-post" href="{{ page.previous.url | relative_url }}">
+        <i class="fas fa-chevron-left"></i> {{ page.previous.title }}
+      </a>
+      {% endif %}
+      
+      {% if page.next.url %}
+      <a class="next-post" href="{{ page.next.url | relative_url }}">
+        {{ page.next.title }} <i class="fas fa-chevron-right"></i>
+      </a>
+      {% endif %}
+    </div>
+  </nav>
+  
+  <div class="post-comments">
+    <h3>Share Your Thoughts</h3>
+    <div class="comment-form">
+      <form action="https://formspree.io/your-email@example.com" method="POST">
+        <div class="form-group">
+          <label for="name">Name</label>
+          <input type="text" name="name" id="name" required>
+        </div>
+        
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" name="_replyto" id="email" required>
+        </div>
+        
+        <div class="form-group">
+          <label for="message">Comment</label>
+          <textarea name="message" id="message" rows="5" required></textarea>
+        </div>
+        
+        <input type="hidden" name="_subject" value="New comment on {{ page.title }}">
+        <button type="submit" class="submit-btn">Send Comment</button>
+      </form>
+    </div>
+  </div>
+</article>
