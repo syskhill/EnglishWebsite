@@ -25,12 +25,15 @@ This isn't your typical academic portfolio. It's more like an unfiltered look at
 - 🏊 A kid who only knew the inside of a pool
 - 📝 To a writer finding their voice
 - 🔍 To a researcher asking questions that matter
+- 🎭 To a creative explorer trying new forms of expression
 
 Through this site, I'm:
 
 - **Documenting my evolution** from telling personal stories to crafting research-based arguments
 - **Sharing my findings** on why kids might benefit from trying lots of things before going all-in on one
 - **Connecting the dots** between my own experiences and what the research shows
+- **Exploring creative formats** including poetry and public speaking to express these ideas
+- **Providing original documents** for those who want to dig deeper into my work
 - **Starting conversations** with others who care about these topics
 
 ## My Approach to Writing

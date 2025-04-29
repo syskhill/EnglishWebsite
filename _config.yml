@@ -47,6 +47,15 @@ navigation:
   - title: Research Process
     url: /posts/research-process-paper
     icon: 🔍
+  - title: Poetry
+    url: /posts/poetry
+    icon: 🎭
+  - title: Speech
+    url: /posts/speech
+    icon: 🎤
+  - title: Documents
+    url: /documents
+    icon: 📄
   - title: About
     url: /about
     icon: 👋
