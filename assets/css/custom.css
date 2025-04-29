@@ -134,6 +134,11 @@ header {
   margin-left: 20px;
 }
 
+.theme-icon {
+  font-size: 14px;
+  line-height: 1;
+}
+
 .theme-btn {
   cursor: pointer;
   width: 30px;
@@ -141,6 +146,11 @@ header {
   border-radius: 50%;
   border: 2px solid transparent;
   transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .theme-btn:hover {
@@ -155,16 +165,35 @@ header {
   background-color: #f8f9fa;
 }
 
+.theme-light .theme-icon {
+  color: #333;
+}
+
 .theme-dark {
   background-color: #1a1a2e;
 }
 
+.theme-dark .theme-icon {
+  color: #e1e1e1;
+}
+
 .theme-midnight {
   background-color: #121212;
+  border: 2px solid #bb86fc;
+  position: relative;
+}
+
+.theme-midnight .theme-icon {
+  color: #bb86fc;
+  text-shadow: 0 0 2px rgba(187, 134, 252, 0.5);
 }
 
 .theme-ocean {
   background-color: #e3f2fd;
+}
+
+.theme-ocean .theme-icon {
+  color: #0d47a1;
 }
 
 main {

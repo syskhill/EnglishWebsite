@@ -1,6 +1,8 @@
 <div class="theme-switcher">
   {% for theme in site.themes %}
-  <div class="theme-btn theme-{{ theme.id }}" data-theme="{{ theme.id }}" title="{{ theme.name }} Theme"></div>
+  <div class="theme-btn theme-{{ theme.id }}" data-theme="{{ theme.id }}" title="{{ theme.name }} Theme">
+    <span class="theme-icon">{{ theme.icon }}</span>
+  </div>
   {% endfor %}
 </div>
 
