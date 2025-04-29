@@ -6,6 +6,8 @@ date: 2025-03-15
 
 # Midterm Reflection: My Evolution as a Writer
 
+*This content is based on the original document "Midterm Reflection(1).docx" in the docs folder.*
+
 ## Introduction
 
 When I began this writing journey at the semester's start, I approached academic writing as something entirely separate from personal expression. Research papers belonged in one category—formal, distant, impersonal—while narrative writing occupied another—authentic but less "serious." The most significant transformation in my writing has been dissolving this artificial boundary.
@@ -50,21 +52,21 @@ This critical approach emerged while working on my annotated bibliography, where
 
 Three readings have significantly shaped my development:
 
-1. **Weaving Personal Experience into Academic Writing** — This essay legitimized the inclusion of my own experiences as valuable evidence when properly framed.
+1. **Weaving Personal Experience into Academic Writing** — This essay legitimized the inclusion of my own experiences as valuable evidence when properly framed. It helped me see that my narrative about early swimming specialization wasn't merely anecdotal but could serve as a case study illuminating broader patterns when connected to research.
 
-2. **Looking for Trouble** — This reading transformed how I approach complexity in research, helping me see that strong arguments acknowledge rather than simplify complications.
+2. **Looking for Trouble** — This reading transformed how I approach complexity in research, helping me see that strong arguments acknowledge rather than simplify complications. I've begun actively seeking out contradictory evidence and limitations in studies I cite, which paradoxically strengthens my arguments by demonstrating that I've considered multiple perspectives.
 
-3. **Assessing Source Credibility** — This practical guide helped me move beyond superficial markers of authority to deeper assessment of methodology and evidence.
+3. **Assessing Source Credibility** — This practical guide helped me move beyond superficial markers of authority to deeper assessment of methodology and evidence. I now evaluate sources based on research design, sample size, peer review process, and potential conflicts of interest rather than just institutional affiliation or publication date.
 
 ## Areas for Continued Growth
 
 As I move into the semester's second half, I'm focusing on three specific areas:
 
-1. **Revision Depth** — I still tend to edit primarily at sentence level rather than reconsidering larger structural elements.
+1. **Revision Depth** — I still tend to edit primarily at sentence level rather than reconsidering larger structural elements. My goal is to challenge myself to experiment with completely different organizational approaches during revision rather than simply refining what's already there.
 
-2. **Research Integration** — While improving, my incorporation of sources can still feel mechanical rather than conversational.
+2. **Research Integration** — While improving, my incorporation of sources can still feel mechanical rather than conversational. I want to develop a more natural flow between my voice and cited material so the transitions feel seamless rather than formulaic.
 
-3. **Audience Awareness** — I need to more consistently consider how readers might respond to or use my arguments.
+3. **Audience Awareness** — I need to more consistently consider how readers might respond to or use my arguments. This includes anticipating potential objections, clarifying specialized terminology, and providing context that makes my work accessible to those without background knowledge of my topic.
 
 ## Conclusion
 

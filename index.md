@@ -3,17 +3,34 @@ layout: home
 title: My Academic Journey
 ---
 
-Hey there! 👋 I'm Connor, and this is where I share my journey through research, writing, and personal growth.
+# Welcome to My Academic Portfolio
 
-My academic adventure revolves around one key idea: **Generalization before specialization in childhood development**. As someone who experienced the highs and lows of early sports specialization, I've been fascinated by how diverse experiences in childhood can create stronger foundations for success later in life.
+*This content is based on information from various documents in the docs folder.*
 
-On this site, you'll find my research findings, personal stories, and reflections on how my writing and thinking have evolved throughout this semester. I've also included creative works like poetry and a speech that explore these themes in different formats. Whether you're interested in childhood development, academic writing, or just enjoy a good personal narrative, I hope you'll find something that resonates with you.
+Hello! I'm Connor Cahill, and this website documents my academic journey exploring the benefits of generalization before specialization in childhood development.
 
-## What's New
+## About My Research
 
-I've recently added:
-- A [poetry collection](/posts/poetry) exploring themes of balance and growth
-- My [public speaking presentation](/posts/speech) on being a "Jack of All Trades"
-- A [document library](/documents) with all original files for download
+My work centers on understanding how early exposure to diverse activities creates stronger foundations for later success than premature specialization. This research combines scholarly investigation with my personal experience as a former competitive swimmer who experienced both the benefits and limitations of early specialization.
 
-Feel free to explore using the navigation menu or check out my featured posts below. Thanks for stopping by!
+Through this portfolio, you'll find:
+
+- **Research findings** on developmental patterns across athletic, academic, and artistic domains
+- **Personal narratives** about my own experience with early specialization
+- **Creative explorations** of these themes through poetry and speech
+- **Reflections** on my growth as a writer and researcher
+
+## Featured Content
+
+- [**Research Argument**](/posts/research-argument) - My formal argument on the benefits of generalization before specialization
+- [**Personal Narrative**](/posts/narrative-time-for-another-day) - "5:45 A.M. Starts: Lessons in Balance and Burnout"
+- [**Poetry Collection**](/posts/poetry) - Creative explorations of development and balance
+- [**Public Speaking**](/posts/speech) - "Jack of All Trades: The Strength in Generalization"
+
+## Additional Resources
+
+- [**Annotated Bibliography**](/posts/annotated-bibliography) - Key research sources that informed my work
+- [**Research Process Paper**](/posts/research-process-paper) - How I conducted my own survey-based research
+- [**Midterm Reflection**](/posts/midterm-reflection) - Analysis of my growth as a writer
+
+Thank you for visiting my portfolio. I hope these resources contribute to conversations about childhood development and educational approaches that prioritize exploration before specialization.

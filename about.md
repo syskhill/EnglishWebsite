@@ -4,51 +4,45 @@ title: About Me
 permalink: /about/
 ---
 
-# Hey, I'm Connor! 👋
+# About Me
 
-![Profile Photo](https://via.placeholder.com/150)
+*This content is based on information from various documents in the docs folder.*
 
-Student by day, researcher by night, and former competitive swimmer with a story to tell.
+## Who I Am
 
-## My Story
+Hello! I'm Connor Cahill, a student passionate about understanding the intersection of childhood development and educational approaches. My academic interests center around how early life experiences shape long-term success and fulfillment.
 
-Picture this: 5:45 AM swim practices, chlorine-scented afternoons, and a schedule so packed that "free time" seemed like a foreign concept. That was my childhood as a specialized athlete.
+My personal experience with early sports specialization in competitive swimming has driven my interest in understanding the benefits of generalization before specialization in childhood development. Through this site, I share both my research findings and personal journey.
 
-Don't get me wrong – swimming taught me discipline, perseverance, and how to rock some seriously weird tan lines. But it also led me to wonder: *What else might I have discovered if I hadn't devoted all those early years to just one activity?*
+## My Research Focus
 
-That question sparked my current academic obsession: **studying the benefits of generalization before specialization in childhood development**.
+My primary research focuses on **The benefits of generalization before specialization in childhood development**. Through my work, I explore how early exposure to diverse activities creates better foundations for later success than premature specialization.
 
-## What This Blog Is About
+This research isn't just academic for me—it's personal. Having experienced the highs and lows of early specialization in swimming, I've been able to combine scholarly research with firsthand experience to develop a more nuanced understanding of this topic.
 
-This isn't your typical academic portfolio. It's more like an unfiltered look at my journey from:
+## About This Website
 
-- 🏊 A kid who only knew the inside of a pool
-- 📝 To a writer finding their voice
-- 🔍 To a researcher asking questions that matter
-- 🎭 To a creative explorer trying new forms of expression
+This portfolio site serves multiple purposes:
 
-Through this site, I'm:
+- **Document Growth**: Track my evolution from informal storytelling to research-based academic writing
+- **Share Research**: Present original findings on childhood development and specialization
+- **Synthesize Learning**: Demonstrate how I connect personal experiences with scholarly research
+- **Explore Creative Formats**: Present ideas through different mediums including research papers, personal narratives, poetry, and speeches
+- **Build Community**: Create an accessible platform for others interested in these topics
 
-- **Documenting my evolution** from telling personal stories to crafting research-based arguments
-- **Sharing my findings** on why kids might benefit from trying lots of things before going all-in on one
-- **Connecting the dots** between my own experiences and what the research shows
-- **Exploring creative formats** including poetry and public speaking to express these ideas
-- **Providing original documents** for those who want to dig deeper into my work
-- **Starting conversations** with others who care about these topics
+## My Writing Approach
 
-## My Approach to Writing
+Throughout this site, I strive to maintain an authentic voice while engaging critically with research. Each post represents a step in my journey as a writer, researcher, and critical thinker.
 
-I believe academic writing doesn't have to be boring. My goal is to keep things:
+I believe academic writing doesn't have to be boring or impersonal. My goal is to create content that is:
 
-- **Authentic** - Real voice, real experiences
-- **Critical** - Not just accepting what I read, but questioning it
-- **Reflective** - Constantly looking back to move forward
-- **Accessible** - Because what's the point of research if no one can understand it?
+- **Authentic** - Incorporating my personal voice and experiences
+- **Critical** - Engaging thoughtfully with research rather than simply reporting it
+- **Reflective** - Continuously connecting new learning to lived experience
+- **Accessible** - Written for both academic and general audiences
 
-## Let's Connect!
+## Connect
 
-Got thoughts on child development? Want to share your own specialization story? Just want to say hi?
+Feel free to reach out if you have questions, feedback, or ideas for collaboration. This site is not just a presentation of completed work but an ongoing conversation about learning and development.
 
-Reach out through any of the social links below. This blog isn't a finished product – it's an ongoing conversation, and I'd love for you to be part of it.
-
-Thanks for stopping by my little corner of the internet!
+Thank you for joining me on this academic journey!

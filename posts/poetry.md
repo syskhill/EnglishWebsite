@@ -7,6 +7,8 @@ tags: [poetry, creative writing, personal expression]
 
 # Poetry Collection: Reflections on Growth and Balance
 
+*This content is based on the original document "103 Poetry.docx" in the docs folder.*
+
 ## Introduction
 
 Poetry offers a unique medium to explore the themes of balance, growth, and personal development that run throughout my academic work. The following collection represents my creative exploration of these concepts through verse.

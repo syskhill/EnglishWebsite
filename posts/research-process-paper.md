@@ -6,6 +6,8 @@ date: 2025-04-27
 
 # From Curiosity to Data: How I Learned Through Research
 
+*This content is based on the original document "Original Research Process Paper.docx" in the docs folder.*
+
 ## The Origin of My Research
 
 My investigation into early specialization versus generalization began with a personal question: Was my experience with competitive swimming typical or an outlier? While anecdotes from friends suggested patterns, I wanted more systematic information about how specialization affected others.

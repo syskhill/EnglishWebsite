@@ -6,43 +6,40 @@ permalink: /documents/
 
 # Document Library
 
-This page provides access to all the original document files that form the basis of my academic portfolio. These are the source materials from which the website content was created.
+*This page provides access to the original document files from the docs folder that form the basis of my academic portfolio.*
 
-## Research Documents
+## Original Documents
 
-### Research Argument
+All the content on this website is based on these original document files. You can download them to see the source materials in their original format.
+
+### Research Documents
+
 - [**Argumentative Research Paper**](/assets/documents/Argumentitive-Research-Paper.docx)
   *My formal argument on the benefits of generalization before specialization in childhood development.*
 
-### Annotated Bibliography
 - [**Annotated Bibliography**](/assets/documents/Annotated-Bibliography.docx)
   *Structured analysis of key research sources that informed my thesis.*
 
-### Research Process
 - [**Original Research Process Paper**](/assets/documents/Original-Research-Process-Paper.docx)
   *Documentation of my methodology and findings from surveying peers about their development experiences.*
 
-## Personal Writing
+### Personal Writing
 
-### Narrative
 - [**Personal Narrative**](/assets/documents/Narrative.docx)
   *My story "Time for Another Day" exploring early specialization in swimming.*
 
-### Reflection
 - [**Midterm Reflection**](/assets/documents/Midterm-Reflection.docx)
   *Analysis of my growth as a writer during this academic journey.*
 
-## Creative Works
+### Creative Works
 
-### Poetry
 - [**Poetry Collection**](/assets/documents/103-Poetry.docx)
   *Collection of poems exploring themes of growth, balance, and development.*
 
-### Speech
 - [**Jack of All Trades Speech**](/assets/documents/Jack-of-All-Trades-Speech.docx)
   *Public speaking presentation on the value of being a generalist before specializing.*
 
-## Downloading Documents
+## How to Download
 
 All documents are provided in Microsoft Word format (.docx). To download any document:
 
@@ -52,6 +49,6 @@ All documents are provided in Microsoft Word format (.docx). To download any doc
 
 ## Using These Documents
 
-These documents are provided for reference and to show the development of my ideas. The website content represents edited and formatted versions of these original documents.
+These documents are provided for reference and to show the original sources of the website content. The website content represents formatted versions of these original documents.
 
 If you're interested in citing any of this work, please include proper attribution to Connor Cahill and the date of access.

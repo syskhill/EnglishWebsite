@@ -6,6 +6,8 @@ date: 2025-04-20
 
 # 5:45 A.M. Starts: Lessons in Balance and Burnout
 
+*This content is based on the original document "Narrative(1).docx" in the docs folder.*
+
 ## Time for Another Day
 
 The alarm shattered the darkness at 5:00 AM. Again. Three sharp beeps before my hand found it, silencing the room but not my fatigue. Outside, the winter air held its breath against the window, still hours from dawn. This was the rhythm of my childhood—dark mornings, chlorine-scented afternoons, homework by lamplight, and early bedtimes that never felt early enough.

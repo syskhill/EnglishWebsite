@@ -7,6 +7,8 @@ tags: [speech, public speaking, childhood development]
 
 # Jack of All Trades: The Strength in Generalization
 
+*This content is based on the original document "Jack of All Trades Speech.docx" in the docs folder.*
+
 *Below is the text of a speech I delivered for my public speaking class, exploring the benefits of being a "Jack of all trades" before specializing.*
 
 ## Introduction
