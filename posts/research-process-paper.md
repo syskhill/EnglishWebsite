@@ -2,9 +2,10 @@
 layout: post
 title: "Generalizing in High School: Insights from Research and Experience"
 date: 2025-05-01
+hero_image: research-process-paper.png
+hero_title: "Generalizing in High School"
+hero_text: "Insights from interviewing students about the impact of diverse activities"
 ---
-
-![Research Process]({{ site.baseurl }}/assets/images/research-process-paper.png)
 
 
 ## Why I Chose This Topic

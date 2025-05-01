@@ -2,9 +2,10 @@
 layout: post
 title: "Jack of All Trades: Why Generalists Win"
 date: 2025-05-01
+hero_image: speech.png
+hero_title: "Jack of All Trades"
+hero_text: "Celebrating adaptability and diverse skills in a world obsessed with specialization"
 ---
-
-![Public Speaking]({{ site.baseurl }}/assets/images/speech.png)
 
 
 ## How Many of You Have Been Asked...

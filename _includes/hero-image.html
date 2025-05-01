@@ -1,0 +1,12 @@
+{% if page.hero_image %}
+<div class="hero-image" {% if page.hero_parallax %}data-parallax="scroll"{% endif %} style="background-image: url('{{ site.baseurl }}/assets/images/{{ page.hero_image }}')">
+  <div class="hero-content">
+    {% if page.hero_title %}
+      <h1 class="hero-title">{{ page.hero_title }}</h1>
+    {% endif %}
+    {% if page.hero_text %}
+      <p class="hero-text">{{ page.hero_text }}</p>
+    {% endif %}
+  </div>
+</div>
+{% endif %}

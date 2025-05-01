@@ -2,9 +2,10 @@
 layout: post
 title: "Annotated Bibliography: Generalization vs. Specialization in Childhood Development"
 date: 2025-05-01
+hero_image: research-argument.png
+hero_title: "Annotated Bibliography"
+hero_text: "Key sources showing how generalization fosters stronger development"
 ---
-
-![Annotated Bibliography]({{ site.baseurl }}/assets/images/research-argument.png)
 
 *This post presents a collection of primary sources that shaped my research on how generalization during childhood fosters long-term success across physical, cognitive, and emotional development. Each entry includes a brief summary and reflection on its significance to my research thesis.*
 

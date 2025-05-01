@@ -3,9 +3,10 @@ layout: post
 title: "The Playground Scientist"
 date: 2025-05-01
 category: fiction
+hero_image: fictional-narrative.png
+hero_title: "The Playground Scientist"
+hero_text: "A story about Milo, a child who refuses to specialize and follows his curiosity"
 ---
-
-![The Playground Scientist]({{ site.baseurl }}/assets/images/fictional-narrative.png)
 
 
 *This story explores themes of curiosity, generalization, and self-discovery through the eyes of a classmate observing someone who never quite fit the mold—but might be onto something bigger.*

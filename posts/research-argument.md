@@ -2,9 +2,10 @@
 layout: post
 title: "The Case for Generalization in Adolescence"
 date: 2025-05-01
+hero_image: research-argument.png
+hero_title: "The Case for Generalization"
+hero_text: "Exploring how varied experiences shape adaptable, empathetic leaders"
 ---
-
-![Research Argument]({{ site.baseurl }}/assets/images/research-argument.png)
 
 
 ## My Experience with Generalization

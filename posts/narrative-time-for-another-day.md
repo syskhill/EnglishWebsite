@@ -2,9 +2,10 @@
 layout: post
 title: "Time for Another Day: A Morning in the Life"
 date: 2025-05-01
+hero_image: narrative-time-for-another-day.png
+hero_title: "Time for Another Day"
+hero_text: "A glimpse into the rushed morning routine and balancing act of high school activities"
 ---
-
-![Morning Routine]({{ site.baseurl }}/assets/images/narrative-time-for-another-day.png)
 
 
 ## 5:45 A.M. Realities
