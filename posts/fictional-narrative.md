@@ -5,7 +5,7 @@ date: 2025-05-01
 category: fiction
 ---
 
-![The Playground Scientist](/assets/images/fictional-narrative.png)
+![The Playground Scientist]({{ site.baseurl }}/assets/images/fictional-narrative.png)
 
 
 *This story explores themes of curiosity, generalization, and self-discovery through the eyes of a classmate observing someone who never quite fit the mold—but might be onto something bigger.*

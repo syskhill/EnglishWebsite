@@ -4,7 +4,7 @@ title: "Generalizing in High School: Insights from Research and Experience"
 date: 2025-05-01
 ---
 
-![Research Process](/assets/images/research-process-paper.png)
+![Research Process]({{ site.baseurl }}/assets/images/research-process-paper.png)
 
 
 ## Why I Chose This Topic
