@@ -4,7 +4,8 @@ title: "Time for Another Day: A Morning in the Life"
 date: 2025-05-01
 ---
 
-*This content is based on the original document "Narrative(1).docx" in the docs folder.*
+![Morning Routine](/assets/images/narrative-time-for-another-day.png)
+
 
 ## 5:45 A.M. Realities
 

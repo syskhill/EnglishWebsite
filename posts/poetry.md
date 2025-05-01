@@ -5,6 +5,9 @@ date: 2025-05-01
 category: poetry
 ---
 
+![Poetry Collection](/assets/images/poetry.png)
+
+
 *This post launches the poetry section of my blog, beginning with reflections on generalization and specialization.*
 
 ---

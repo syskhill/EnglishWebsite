@@ -4,7 +4,8 @@ title: "Jack of All Trades: Why Generalists Win"
 date: 2025-05-01
 ---
 
-*This content is based on the original document "Jack of All Trades Speech.docx" in the docs folder.*
+![Public Speaking](/assets/images/speech.png)
+
 
 ## How Many of You Have Been Asked...
 

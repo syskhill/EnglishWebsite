@@ -4,7 +4,8 @@ title: "Generalizing in High School: Insights from Research and Experience"
 date: 2025-05-01
 ---
 
-*This content is based on the original document "Original Research Process Paper.docx" in the docs folder.*
+![Research Process](/assets/images/research-process-paper.png)
+
 
 ## Why I Chose This Topic
 

@@ -4,7 +4,8 @@ title: "The Case for Generalization in Adolescence"
 date: 2025-05-01
 ---
 
-*This content is based on the original document "Argumentitive Research Paper.docx" in the docs folder.*
+![Research Argument](/assets/images/research-argument.png)
+
 
 ## My Experience with Generalization
 
