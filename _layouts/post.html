@@ -50,23 +50,24 @@ layout: default
   <div class="post-comments">
     <h3>Share Your Thoughts</h3>
     <div class="comment-form">
-      <form action="https://formspree.io/your-email@example.com" method="POST">
+      <form action="https://staticman.net/v3/entry/github/username/EnglishWebsite/main/comments" method="POST">
         <div class="form-group">
           <label for="name">Name</label>
-          <input type="text" name="name" id="name" required>
+          <input type="text" name="fields[name]" id="name" required>
         </div>
         
         <div class="form-group">
           <label for="email">Email</label>
-          <input type="email" name="_replyto" id="email" required>
+          <input type="email" name="fields[email]" id="email" required>
         </div>
         
         <div class="form-group">
           <label for="message">Comment</label>
-          <textarea name="message" id="message" rows="5" required></textarea>
+          <textarea name="fields[message]" id="message" rows="5" required></textarea>
         </div>
         
-        <input type="hidden" name="_subject" value="New comment on {{ page.title }}">
+        <input type="hidden" name="options[slug]" value="{{ page.slug }}">
+        <input type="hidden" name="options[redirect]" value="{{ site.url }}{{ page.url }}">
         <button type="submit" class="submit-btn">Send Comment</button>
       </form>
     </div>
