@@ -3,10 +3,9 @@ layout: post
 title: "The Path Between and Other Poems"
 date: 2025-05-01
 category: poetry
-hero_image: poetry.png
-hero_title: "The Path Between"
-hero_text: "Contrasting perspectives on generalization and specialization through poetry"
 ---
+
+<img src="{{ site.baseurl }}/assets/images/poetry.png" alt="Poetry Collection" class="post-featured-image">
 
 
 *This post launches the poetry section of my blog, beginning with reflections on generalization and specialization.*
