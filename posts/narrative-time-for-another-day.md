@@ -4,7 +4,7 @@ title: "Time for Another Day: A Morning in the Life"
 date: 2025-05-01
 ---
 
-<img src="{{ site.baseurl }}/assets/images/narrative-time-for-another-day.png" alt="Morning Routine" class="post-featured-image">
+![Morning Routine](https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/narrative-time-for-another-day.png)
 
 
 ## 5:45 A.M. Realities

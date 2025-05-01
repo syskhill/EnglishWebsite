@@ -4,7 +4,7 @@ title: "Generalizing in High School: Insights from Research and Experience"
 date: 2025-05-01
 ---
 
-<img src="{{ site.baseurl }}/assets/images/research-process-paper.png" alt="Research Process" class="post-featured-image">
+![Research Process](https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/research-process-paper.png)
 
 
 ## Why I Chose This Topic

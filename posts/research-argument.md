@@ -4,7 +4,7 @@ title: "The Case for Generalization in Adolescence"
 date: 2025-05-01
 ---
 
-<img src="{{ site.baseurl }}/assets/images/research-argument.png" alt="Research Argument" class="post-featured-image">
+![Research Argument](https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/research-argument.png)
 
 
 ## My Experience with Generalization
