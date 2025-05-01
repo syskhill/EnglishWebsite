@@ -4,7 +4,7 @@ title: "Time for Another Day: A Morning in the Life"
 date: 2025-05-01
 ---
 
-![Morning Routine](https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/narrative-time-for-another-day.png)
+![Morning Routine](/assets/images/posts/narrative-time-for-another-day.png){: .img-responsive .center-block }
 
 
 ## 5:45 A.M. Realities

@@ -4,7 +4,7 @@ title: "Jack of All Trades: Why Generalists Win"
 date: 2025-05-01
 ---
 
-![Public Speaking](https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/speech.png)
+![Public Speaking](/assets/images/posts/speech.png){: .img-responsive .center-block }
 
 
 ## How Many of You Have Been Asked...

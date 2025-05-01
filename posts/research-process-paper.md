@@ -4,7 +4,7 @@ title: "Generalizing in High School: Insights from Research and Experience"
 date: 2025-05-01
 ---
 
-![Research Process](https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/research-process-paper.png)
+![Research Process](/assets/images/posts/research-process-paper.png){: .img-responsive .center-block }
 
 
 ## Why I Chose This Topic

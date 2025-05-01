@@ -5,7 +5,7 @@ date: 2025-05-01
 category: poetry
 ---
 
-![Poetry Collection](https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/poetry.png)
+![Poetry Collection](/assets/images/posts/poetry.png){: .img-responsive .center-block }
 
 
 *This post launches the poetry section of my blog, beginning with reflections on generalization and specialization.*
