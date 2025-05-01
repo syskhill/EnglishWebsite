@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# About Me
-
 ## Hey, I'm Connor Cahill
 
 I'm a student, writer, and curious learner navigating the overlap between real-life experience and academic research. This site is where I bring together the different parts of who I am—someone who's lived the grind of early specialization, but also someone who’s found new meaning in asking “what if I had done things differently?”
