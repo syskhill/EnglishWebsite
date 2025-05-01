@@ -4,8 +4,6 @@ title: "Annotated Bibliography: Generalization vs. Specialization in Childhood D
 date: 2025-05-01
 ---
 
-# Annotated Bibliography: Generalization vs. Specialization in Childhood Development
-
 *This post presents a collection of primary sources that shaped my research on how generalization during childhood fosters long-term success across physical, cognitive, and emotional development. Each entry includes a brief summary and reflection on its significance to my research thesis.*
 
 ---
