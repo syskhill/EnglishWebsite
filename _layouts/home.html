@@ -111,19 +111,6 @@ layout: default
         </div>
       </div>
       
-      <!-- Documents -->
-      <div class="card">
-        <div class="card-content">
-          {% for item in site.navigation %}
-            {% if item.url == '/documents' %}
-              <span class="card-icon">{{ item.icon }}</span>
-            {% endif %}
-          {% endfor %}
-          <h3 class="card-title">Document Library</h3>
-          <p class="card-excerpt">Access to all original document files that form the basis of this portfolio.</p>
-          <a href="{{ site.baseurl }}/documents" class="read-more">View Documents</a>
-        </div>
-      </div>
     </div>
   </section>
   
