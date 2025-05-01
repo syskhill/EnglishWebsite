@@ -6,43 +6,42 @@ permalink: /about/
 
 # About Me
 
-*This content is based on information from various documents in the docs folder.*
+## Hey, I'm Connor Cahill
 
-## Who I Am
+I'm a student, writer, and curious learner navigating the overlap between real-life experience and academic research. This site is where I bring together the different parts of who I am—someone who's lived the grind of early specialization, but also someone who’s found new meaning in asking “what if I had done things differently?”
 
-Hello! I'm Connor Cahill, a student passionate about understanding the intersection of childhood development and educational approaches. My academic interests center around how early life experiences shape long-term success and fulfillment.
+Growing up, I was the early riser in the pool—competitive swimming, strict schedules, chasing times. For a while, that was my whole identity. But the further I got into it, the more I wondered: *Was specializing so young actually helping me?* That question launched me into research about generalization in childhood—trying many things before picking just one—and how that can shape healthier, more resilient lives.
 
-My personal experience with early sports specialization in competitive swimming has driven my interest in understanding the benefits of generalization before specialization in childhood development. Through this site, I share both my research findings and personal journey.
+## What I’m Researching
 
-## My Research Focus
+I focus on **the benefits of generalization before specialization in childhood development**. That means looking at how kids who try different sports, hobbies, and academic interests early on tend to grow into more adaptable, creative, and well-rounded adults.
 
-My primary research focuses on **The benefits of generalization before specialization in childhood development**. Through my work, I explore how early exposure to diverse activities creates better foundations for later success than premature specialization.
+What makes my research different is that it's deeply personal. I'm not just reading articles and quoting stats—I'm connecting those ideas to real experiences from my own life and the lives of people around me. Whether it’s a fictional character like Milo or a real conversation with a friend, I’m exploring what it means to *not* fit into one box too early.
 
-This research isn't just academic for me—it's personal. Having experienced the highs and lows of early specialization in swimming, I've been able to combine scholarly research with firsthand experience to develop a more nuanced understanding of this topic.
+## What This Site Is
 
-## About This Website
+This site is my digital notebook, writing studio, and research archive all in one. Here’s what you’ll find:
 
-This portfolio site serves multiple purposes:
+- 🧠 **Research Projects** — Academic writing that digs into childhood development and learning psychology  
+- ✍️ **Narratives & Fiction** — Personal and fictional stories that give voice to the themes I study  
+- 📚 **Poetry & Speeches** — Creative work that explores identity, growth, and education in new ways  
+- 🔍 **Reflections** — Posts that show how I connect new ideas with lived experience  
 
-- **Document Growth**: Track my evolution from informal storytelling to research-based academic writing
-- **Share Research**: Present original findings on childhood development and specialization
-- **Synthesize Learning**: Demonstrate how I connect personal experiences with scholarly research
-- **Explore Creative Formats**: Present ideas through different mediums including research papers, personal narratives, poetry, and speeches
-- **Build Community**: Create an accessible platform for others interested in these topics
+It’s part portfolio, part process, and always evolving.
 
-## My Writing Approach
+## How I Write
 
-Throughout this site, I strive to maintain an authentic voice while engaging critically with research. Each post represents a step in my journey as a writer, researcher, and critical thinker.
+I try to keep my writing honest and engaging. Even when I’m working with complex research, I want the language to feel human and clear. You’ll see that I often bring in personal anecdotes, rhetorical questions, and a conversational tone—because I think academic work can be both rigorous *and* readable.
 
-I believe academic writing doesn't have to be boring or impersonal. My goal is to create content that is:
+My style blends:
 
-- **Authentic** - Incorporating my personal voice and experiences
-- **Critical** - Engaging thoughtfully with research rather than simply reporting it
-- **Reflective** - Continuously connecting new learning to lived experience
-- **Accessible** - Written for both academic and general audiences
+- **Authenticity** — I don’t pretend to be an expert. I share what I’m learning as I go.  
+- **Curiosity** — I ask a lot of “what if” questions and love following ideas down rabbit holes.  
+- **Reflection** — I try to connect every new concept to something real in my life.  
+- **Clarity** — I want people from any background to be able to engage with what I’m writing.  
 
-## Connect
+## Let’s Talk
 
-Feel free to reach out if you have questions, feedback, or ideas for collaboration. This site is not just a presentation of completed work but an ongoing conversation about learning and development.
+If something on this site resonates with you—or if you have thoughts, critiques, or stories of your own—I’d love to hear them. Whether you’re a student, educator, researcher, or just someone who’s lived a nonlinear path, you’re welcome here.
 
-Thank you for joining me on this academic journey!
+Thanks for stopping by and being part of the journey.
