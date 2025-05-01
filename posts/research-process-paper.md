@@ -4,7 +4,9 @@ title: "Generalizing in High School: Insights from Research and Experience"
 date: 2025-05-01
 ---
 
-![Research Process](/assets/images/posts/research-process-paper.png){: .img-responsive .center-block }
+<div style="text-align: center; margin: 30px 0;">
+  <img src="https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/research-process-paper.png" alt="Research Process" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</div>
 
 
 ## Why I Chose This Topic

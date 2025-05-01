@@ -5,7 +5,9 @@ date: 2025-05-01
 category: poetry
 ---
 
-![Poetry Collection](/assets/images/posts/poetry.png){: .img-responsive .center-block }
+<div style="text-align: center; margin: 30px 0;">
+  <img src="https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/poetry.png" alt="Poetry Collection" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</div>
 
 
 *This post launches the poetry section of my blog, beginning with reflections on generalization and specialization.*

@@ -4,7 +4,9 @@ title: "Jack of All Trades: Why Generalists Win"
 date: 2025-05-01
 ---
 
-![Public Speaking](/assets/images/posts/speech.png){: .img-responsive .center-block }
+<div style="text-align: center; margin: 30px 0;">
+  <img src="https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/speech.png" alt="Public Speaking" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</div>
 
 
 ## How Many of You Have Been Asked...

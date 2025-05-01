@@ -5,7 +5,9 @@ date: 2025-05-01
 category: fiction
 ---
 
-![The Playground Scientist](/assets/images/posts/fictional-narrative.png){: .img-responsive .center-block }
+<div style="text-align: center; margin: 30px 0;">
+  <img src="https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/fictional-narrative.png" alt="The Playground Scientist" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</div>
 
 
 *This story explores themes of curiosity, generalization, and self-discovery through the eyes of a classmate observing someone who never quite fit the mold—but might be onto something bigger.*

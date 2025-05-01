@@ -4,7 +4,9 @@ title: "Annotated Bibliography: Generalization vs. Specialization in Childhood D
 date: 2025-05-01
 ---
 
-![Annotated Bibliography](/assets/images/posts/research-argument.png){: .img-responsive .center-block }
+<div style="text-align: center; margin: 30px 0;">
+  <img src="https://raw.githubusercontent.com/syskhill/EnglishWebsite/main/assets/images/research-argument.png" alt="Annotated Bibliography" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</div>
 
 *This post presents a collection of primary sources that shaped my research on how generalization during childhood fosters long-term success across physical, cognitive, and emotional development. Each entry includes a brief summary and reflection on its significance to my research thesis.*
 
